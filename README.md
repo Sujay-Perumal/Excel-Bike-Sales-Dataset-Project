@@ -2,7 +2,6 @@
 # 🚴‍♂️ **Bike Sales Data – Excel Visualization & Dashboard Project**
 
 ### Transforming raw retail data into clear, insightful Excel visualizations  
-Line Charts • Column Charts • Pie Charts • Data Storytelling
 
 <div align="center">
 
