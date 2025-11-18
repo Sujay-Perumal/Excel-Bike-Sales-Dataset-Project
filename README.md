@@ -42,6 +42,8 @@ This visualization highlights:
 - Revenue peaks and slow periods  
 - Overall growth trends  
 
+<img width="894" height="394" alt="image" src="https://github.com/user-attachments/assets/e63b1082-6910-44a0-a1ca-07ad3960870f" />
+
 ---
 
 ### **2️⃣ Column Chart – Product Revenue by Country**
@@ -52,6 +54,8 @@ Helpful for analyzing:
 - Product demand patterns  
 - Growth opportunities  
 
+<img width="1280" height="463" alt="image" src="https://github.com/user-attachments/assets/a6f610ba-011d-474c-918d-32cb9d358af3" />
+
 ---
 
 ### **3️⃣ Pie Chart – Revenue by Customer Age Group**
@@ -61,29 +65,10 @@ A pie chart showing **revenue distribution across customer age groups**, offerin
 - Marketing opportunities  
 - Customer segment performance  
 
----
-
-## 📸 Screenshots
-
-Below are examples of the visualizations created in this project.  
-
-### **Line Chart – Revenue Over Time**
-<img width="894" height="394" alt="image" src="https://github.com/user-attachments/assets/e63b1082-6910-44a0-a1ca-07ad3960870f" />
-*Shows monthly and yearly revenue trends.*
-
----
-
-### **Column Chart – Product Revenue by Country**
-<img width="1280" height="463" alt="image" src="https://github.com/user-attachments/assets/a6f610ba-011d-474c-918d-32cb9d358af3" />
-*Compares revenue contribution across countries.*
-
----
-
-### **Pie Chart – Revenue by Customer Age Group**
 <img width="926" height="418" alt="image" src="https://github.com/user-attachments/assets/a45303ed-0cfc-415d-bb9a-641261ca40c6" /> 
-*Shows demographic revenue distribution.*
 
 ---
+
 
 ## 📁 Dataset Structure
 
